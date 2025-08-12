@@ -8,7 +8,7 @@ public class GitTest {
         System.out.println("Git Test04 for hot-fix!");
         System.out.println("Git Test04 for master test!");
         System.out.println("Git Test05 for hot-fix test!");
-        //push测试
+        //push测试 : 将修改的代码推送到远程仓库
         System.out.println("push test for master");
     }
 }
