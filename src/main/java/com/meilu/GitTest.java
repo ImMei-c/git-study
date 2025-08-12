@@ -10,5 +10,7 @@ public class GitTest {
         System.out.println("Git Test05 for hot-fix test!");
         //push测试 : 将修改的代码推送到远程仓库
         System.out.println("push test for master");
+        //pull测试 ：将远程仓库里被修改的改名拉取到本地仓库
+        System.out.println("pull test for other");
     }
 }
