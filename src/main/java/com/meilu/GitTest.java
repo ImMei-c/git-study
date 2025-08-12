@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("pull test for other");
         //Gitee push测试：
         System.out.println("push test for master");
+        //证书测试
     }
 }
